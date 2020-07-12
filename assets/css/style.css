@@ -395,7 +395,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #d45b5b;
+  color: #e06c6c;
   line-height: 44px;
 }
 
@@ -421,9 +421,9 @@ nav ul li a {
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #d45b5b;
+  background-color: #e06c6c;
 }
-/*#b8a07e*/
+/*#b8a07e for .div-img-bg .services-block i*/
 .owl-nav {
   display: none;
 }
