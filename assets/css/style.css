@@ -421,9 +421,9 @@ nav ul li a {
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #b8a07e;
+  background-color: #b8a07e#d45b5b;
 }
-
+/*#b8a07e*/
 .owl-nav {
   display: none;
 }
